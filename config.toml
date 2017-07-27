@@ -1,7 +1,7 @@
 languageCode = "en-us"
 contentdir = "content"
 publishDir = "docs"
-baseUrl = "example.com"
+baseUrl = "https://vhminhquan.github.io/guide/"
 canonifyurls = true
 
 title = "Sổ Liên Lạc Điện Tử"
