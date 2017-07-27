@@ -1,5 +1,5 @@
 ---
-title: "Account management pages"
+title: "Trang quản lý tài khoản"
 image1 : "/vi/AddToken.png"
 img_title1 : "Hình 01."
 img1_coords1 : "105,146,175,161"

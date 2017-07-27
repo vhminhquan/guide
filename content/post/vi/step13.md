@@ -11,5 +11,5 @@ tranen : "/post/en/step13/"
 ---
 Chọn trường của bạn hoặc "Create new school" nếu bạn không tìm thấy trường bạn cần.
 
-Nếu bạn thấy trường của mình ở đây, bạn có thể <a href="http://localhost:1313/post/vi/step15/">bỏ qua bước kế tiếp</a>.
+Nếu bạn thấy trường của mình ở đây, bạn có thể <a href="https://vhminhquan.github.io/guide/step15/">bỏ qua bước kế tiếp</a>.
 

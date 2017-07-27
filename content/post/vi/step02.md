@@ -11,7 +11,7 @@ tranen : "/post/en/step02/"
 ---
 Nhập vào số điện thoại của bạn và nhấn "CONTINUE".
 
-Nếu số điện thoại đã tồn tại , bạn có thể <a href="http://localhost:1313/post/vi/step04/">bỏ qua bước kế tiếp.</a>
+Nếu số điện thoại đã tồn tại , bạn có thể <a href="https://vhminhquan.github.io/guide/step04/">bỏ qua bước kế tiếp.</a>
 
 
 

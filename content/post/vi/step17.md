@@ -11,4 +11,4 @@ tranen : "/post/en/step17/"
 ---
 Chọn khối hoặc "Create new grade".
 
-Nếu bạn thấy khối của bạn cần ở đây, bạn có thể <a href="http://localhost:1313/post/vi/step19/">bỏ qua bước kế tiếp</a>.
+Nếu bạn thấy khối của bạn cần ở đây, bạn có thể <a href="https://vhminhquan.github.io/guide/step19/">bỏ qua bước kế tiếp</a>.

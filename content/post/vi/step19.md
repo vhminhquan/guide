@@ -11,4 +11,4 @@ tranen : "/post/en/step19/"
 ---
 Chọn lớp hoặc "Create new class".
 
-Nếu bạn thấy lớp bạn cần ở đây, bạn có thể <a href="http://localhost:1313/post/vi/step21/" > bỏ qua bước kế tiếp </a>.
+Nếu bạn thấy lớp bạn cần ở đây, bạn có thể <a href="https://vhminhquan.github.io/guide/step21/" > bỏ qua bước kế tiếp </a>.

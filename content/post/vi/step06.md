@@ -7,7 +7,7 @@ img1_coords2 : "181,476,263,490"
 img1_link1 : "/post/vi/step07/"
 img1_link2 : "/post/vi/step11/"
 img1_coords3 : "29,45,0,15"
-img1_link3 : "/post/en/step04/"
+img1_link3 : "/post/vi/step04/"
 tranvi : "/post/vi/step06/"
 tranen : "/post/en/step06/"
 ---

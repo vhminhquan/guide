@@ -11,4 +11,4 @@ tranen : "/post/en/step34/"
 ---
 Chọn lớp hoặc "Create new class".
 
-Nếu bạn thấy lớp mình cần ở đây, bạn có thể <a href="http://localhost:1313/post/vi/step36/">bỏ qua bước kế tiếp</a>
+Nếu bạn thấy lớp mình cần ở đây, bạn có thể <a href="https://vhminhquan.github.io/guide/step36/">bỏ qua bước kế tiếp</a>
