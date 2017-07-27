@@ -1,0 +1,17 @@
+---
+title: "Video Manager"
+image1 : "/en/LectureDetail1.png"
+image2 : "/en/InputInfo2.png"
+comment1: "Press 'WANT TO ADD OTHER PROGRAM' to add it."
+comment2: "Press 'GREEN PLUS' to add a new video and press 'UPLOAD' to upload your video."
+img_title1 : "Picture 01"
+img_title2 : "Picture 02"
+img1_coords1 : "0,230,240,253"
+img1_link1 : "/post/en/step56/"
+img2_coords1 : "125,221,155,247"
+img2_link1 : "/post/en/step60/"
+img2_coords2 : "207,474,262,493"
+img2_link2 : "/post/en/step62/"
+tranvi : "/post/vi/step61/"
+tranen : "/post/en/step61/"
+---

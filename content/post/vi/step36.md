@@ -1,0 +1,17 @@
+---
+title: "Thông tin phụ huynh"
+comment1 : "Nhập vào thông tin của bạn."
+comment2 : "Nhập vào thông tin phụ huynh. Bạn có thể chọn 'As above address'/'Địa chỉ như trên' và bấm 'NEXT'. "
+image1 : "/vi/Infomation2_1.png"
+image2 : "/vi/Infomation2_2.png"
+img_title1 : "Hình 01"
+img_title2 : "Hình 02"
+img2_coords1: "62,272,76,284"
+img2_link1 : "/post/vi/step37/"
+img2_coords2: "208,475,245,495"
+img2_link2 : "/post/vi/step38/"
+img1_coords2 : "32,55,0,25"
+img1_link2 : "/post/vi/step35/"
+tranvi : "/post/vi/step36/"
+tranen : "/post/en/step36/"
+---

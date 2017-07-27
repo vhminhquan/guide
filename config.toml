@@ -1,0 +1,14 @@
+languageCode = "en-us"
+contentdir = "content"
+publishDir = "docs"
+baseUrl = "example.com"
+canonifyurls = true
+
+title = "Sổ Liên Lạc Điện Tử"
+author = "Trí Đức"
+
+# [params]
+#     author_name = "Khang"
+#     twitter_username = "chibicode"
+#     gravatar_id = "d747ad92018acd87a77899704fc6693d"
+#	  image = "manageUser_addPhonenumber_en.png"

@@ -1,0 +1,15 @@
+---
+title: "Trang quản lý tài khoản"
+image1 : "/vi/DeviceList.png"
+img_title1 : "Hình 01"
+img1_coords1: "0,15,27,45"
+img1_link1 : "/post/vi/step06/"
+comment1 : "MÃ ĐÚNG!"
+image2 : "/vi/ClickOnRemoveDevice.png"
+img_title2 : "Hình 02"
+img2_coords1: "0,15,27,45"
+img2_link1 : "/post/vi/step06/"
+comment2 : "MÃ SAI!"
+tranvi : "/post/vi/step09plus/"
+tranen : "/post/en/step09plus/"
+---

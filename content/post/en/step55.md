@@ -1,0 +1,15 @@
+---
+title: "Video Lecture"
+image1 : "/en/LectureDetail1.png"
+image2 : "/en/LectureDetail2.png"
+comment1: "Press 'WANT TO ADD OTHER PROGRAM' to add it."
+comment2: "Press 'GREEN PLUS' to add a new video."
+img_title1 : "Picture 01"
+img_title2 : "Picture 02"
+img1_coords1 : "0,230,240,253"
+img1_link1 : "/post/en/step56/"
+img2_coords1 : "125,229,155,255"
+img2_link1 : "/post/en/step60/"
+tranvi : "/post/vi/step55/"
+tranen : "/post/en/step55/"
+---

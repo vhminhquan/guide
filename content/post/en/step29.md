@@ -1,0 +1,17 @@
+---
+title: "Student Informations"
+comment1 : "Enter your infomations."
+comment2 : "Enter parent's infomations. Press 'NEXT'. "
+image1 : "/en/Infomation_student_1_1.png"
+image2 : "/en/Infomation2_2_2.png"
+img_title1 : "Picture 01"
+img_title2 : "Picture 02"
+img2_coords1: "208,465,245,485"
+img2_link1 : "/post/en/step30/"
+img2_coords2 : "61,426,75,445"
+img2_link2 : "/post/en/step28/"
+img1_coords2 : "29,35,0,15"
+img1_link2 : "/post/en/step27/"
+tranvi : "/post/vi/step29/"
+tranen : "/post/en/step29/"
+---

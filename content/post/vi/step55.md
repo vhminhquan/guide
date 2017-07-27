@@ -1,0 +1,15 @@
+---
+title: "Video bài giảng"
+image1 : "/vi/LectureDetail_1.png"
+image2 : "/vi/LectureDetail_2.png"
+comment1: "Bấm 'WANT TO ADD OTHER PROGRAM' để thêm chương trình mới."
+comment2: "Bấm 'GREEN PLUS'/'NÚT CỘNG MÀU XANH LÁ' để thêm video mới."
+img_title1 : "Hình 01"
+img_title2 : "Hình 02"
+img1_coords1 : "0,230,240,253"
+img1_link1 : "/post/vi/step56/"
+img2_coords1 : "125,229,155,255"
+img2_link1 : "/post/vi/step60/"
+tranvi : "/post/vi/step55/"
+tranen : "/post/en/step55/"
+---

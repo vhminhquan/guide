@@ -1,0 +1,78 @@
+{{ partial "layout_begin.html" . }}
+<div class="post-header"><h1 class="post-title-main">{{ .Title }}</h1></div>
+{{if .Params.image4}}
+<div class="row">
+  <div class="col-xs-6"><div class="post-content">{{ .Params.comment1 }}</div></div>
+  <div class="col-xs-6"><div class="post-content">{{ .Params.comment2 }}</div></div>  
+</div>
+<div class="row">
+  <div class="col-xs-6"><img src="/img{{.Params.image1}}" width="281" height="500" alt="test" usemap="#map1">
+  {{if .Params.img_title1}}<p><i>{{.Params.img_title1}}</i></p>{{end}}</div>
+  <div class="col-xs-6"><img src="/img{{.Params.image2}}" width="281" height="500" alt="test" usemap="#map2">
+  {{if .Params.img_title2}}<p><i>{{.Params.img_title2}}</i></p>{{end}}</div>
+</div><br><br>
+<div class="row">
+  <div class="col-xs-6"><div class="post-content">{{ .Params.comment3 }}</div></div>
+  <div class="col-xs-6"><div class="post-content">{{ .Params.comment4 }}</div></div>  
+</div>
+<div class="row">
+  <div class="col-xs-6"><img src="/img{{.Params.image3}}" width="281" height="500" alt="test" usemap="#map3">
+  {{if .Params.img_title3}}<p><i>{{.Params.img_title3}}</i></p>{{end}}</div>
+  <div class="col-xs-6"><img src="/img{{.Params.image4}}" width="281" height="500" alt="test" usemap="#map4">
+  {{if .Params.img_title4}}<p><i>{{.Params.img_title4}}</i></p>{{end}}</div>
+</div>
+  <div>
+      <map name="map1">{{ partial "map1.html" . }}</map>
+      <map name="map2">{{ partial "map2.html" . }}</map>
+      <map name="map3">{{ partial "map3.html" . }}</map>
+      <map name="map4">{{ partial "map4.html" . }}</map>
+  </div>
+{{else}}{{if .Params.image3}}
+<div class="row">
+  <div class="col-xs-4"><div class="post-content">{{ .Params.comment1 }}</div></div>
+  <div class="col-xs-4"><div class="post-content">{{ .Params.comment2 }}</div></div>  
+  <div class="col-xs-4"><div class="post-content">{{ .Params.comment3 }}</div></div>    
+</div>
+<div class="row">
+  <div class="col-xs-4"><img src="/img{{.Params.image1}}" width="281" height="500" alt="test" usemap="#map1">
+  {{if .Params.img_title1}}<p><i>{{.Params.img_title1}}</i></p>{{end}}</div>
+  <div class="col-xs-4"><img src="/img{{.Params.image2}}" width="281" height="500" alt="test" usemap="#map2">
+  {{if .Params.img_title2}}<p><i>{{.Params.img_title2}}</i></p>{{end}}</div>
+  <div class="col-xs-4"><img src="/img{{.Params.image3}}" width="281" height="500" alt="test" usemap="#map3"></div>
+  {{if .Params.img_title3}}<p><i>{{.Params.img_title3}}</i></p>{{end}}</div>
+  <div>
+      <map name="map1">{{ partial "map1.html" . }}</map>
+      <map name="map2">{{ partial "map2.html" . }}</map>
+      <map name="map3">{{ partial "map3.html" . }}</map>
+    </div>
+</div>
+{{else}}{{if .Params.image2}}
+<div class="row">
+  <div class="col-xs-6"><div class="post-content">{{ .Params.comment1 }}</div></div>
+  <div class="col-xs-6"><div class="post-content">{{ .Params.comment2 }}</div></div>
+</div>
+<div class="row">
+  <div class="col-xs-6"><img src="/img{{.Params.image1}}" width="281" height="500" alt="test" usemap="#map1">
+  {{if .Params.img_title1}}<p><i>{{.Params.img_title1}}</i></p>{{end}}</div>
+  <div class="col-xs-6"><img src="/img{{.Params.image2}}" width="281" height="500" alt="test" usemap="#map2">
+  {{if .Params.img_title2}}<p><i>{{.Params.img_title2}}</i></p>{{end}}</div>
+  <div>
+      <map name="map1">{{ partial "map1.html" . }}</map>
+      <map name="map2">{{ partial "map2.html" . }}</map>
+  </div>
+</div>
+{{else}}{{if .Params.image1}}
+<div class="row">
+  <div class="col-xs-6"><div class="post-content">{{ .Content }}</div></div>
+  <div class="col-xs-6">
+    <img src="/img{{ .Params.image1}}" width="281" height="500" alt="test" usemap="#map1">
+    <div>
+      {{if .Params.img_title1}}<p><i>{{.Params.img_title1}}</i></p>{{end}}
+      <map name="map1">{{ partial "map1.html" . }}</map>
+    </div>
+    </div>
+</div>
+{{end}}{{end}}{{end}}{{end}}
+<div class="post-footer" align="middle">
+{{ partial "post-footer.html" . }}</div>
+{{ partial "layout_end.html" . }}

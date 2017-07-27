@@ -1,0 +1,17 @@
+---
+title: "Quản lí video"
+image1 : "/vi/LectureDetail_1.png"
+image2 : "/vi/InputInfo_2.png"
+comment1: "Bấm 'WANT TO ADD OTHER PROGRAM' để thêm video mới."
+comment2: "Bấm 'NÚT CỘNG MÀU XANH LÁ'' để thêm video mới và bấm 'UPLOAD' để tải lên video của bạn."
+img_title1 : "Picture 01"
+img_title2 : "Picture 02"
+img1_coords1 : "0,230,240,253"
+img1_link1 : "/post/vi/step56/"
+img2_coords1 : "125,221,155,247"
+img2_link1 : "/post/vi/step60/"
+img2_coords2 : "207,474,262,493"
+img2_link2 : "/post/vi/step62/"
+tranvi : "/post/vi/step61/"
+tranen : "/post/en/step61/"
+---

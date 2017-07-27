@@ -1,0 +1,17 @@
+---
+title: "Thông tin học sinh"
+comment1 : "Nhập vào thông tin của bạn."
+comment2 : "Nhập vào thông tin học sinh. Bấm 'NEXT'. "
+image1 : "/vi/Infomation_2_2_1.png"
+image2 : "/vi/Infomation_2_2_2.png"
+img_title1 : "Hình 01"
+img_title2 : "Hình 02"
+img2_coords1: "208,465,245,485"
+img2_link1 : "/post/vi/step38/"
+img2_coords2 : "61,426,75,445"
+img2_link2 : "/post/vi/step36/"
+img1_coords2 : "29,35,0,15"
+img1_link2 : "/post/vi/step35/"
+tranvi : "/post/vi/step37/"
+tranen : "/post/en/step37/"
+---

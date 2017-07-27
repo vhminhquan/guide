@@ -1,0 +1,14 @@
+---
+title: "Create New Grade"
+image1 : "/en/CreateNewGrade3.png"
+img_title1 : "Picture 01"
+img1_coords1: "208,476,245,494"
+img1_link1 : "/post/en/step20/"
+img1_coords2 : "29,45,0,15"
+img1_link2 : "/post/en/step17/"
+tranvi : "/post/vi/step18/"
+tranen : "/post/en/step18/"
+---
+Enter "Grade name".
+
+Then, press "NEXT".
